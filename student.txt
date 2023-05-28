@@ -1,0 +1,1 @@
+[{"id": 1, "name": "1", "english": 1, "chinese": 1, "math": 1, "sum": 3}, {"id": 2, "name": "2", "english": 2, "chinese": 2, "math": 2, "sum": 6}, {"id": 4, "name": "\u5f20\u9f99", "english": 655, "chinese": 67, "math": 89, "sum": 811}, {"id": 3, "name": "\u5f6d\u5a9b", "english": 99, "chinese": 88, "math": 60, "sum": 247}]
